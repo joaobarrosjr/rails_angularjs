@@ -4,7 +4,7 @@
     <data-source source="LOCAL" name="Rails angularjs: development" uuid="e3f3886a-a0d1-4acb-aa4e-b5a813a5f7eb">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:C:\projetos\angularjs\db\development.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\projetos\rails_angularjs\db\development.sqlite3</jdbc-url>
       <libraries />
     </data-source>
   </component>
